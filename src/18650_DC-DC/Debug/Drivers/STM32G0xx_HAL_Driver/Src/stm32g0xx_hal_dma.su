@@ -1,0 +1,15 @@
+stm32g0xx_hal_dma.c:152:19:HAL_DMA_Init	16	static
+stm32g0xx_hal_dma.c:259:19:HAL_DMA_DeInit	16	static
+stm32g0xx_hal_dma.c:382:19:HAL_DMA_Start	32	static
+stm32g0xx_hal_dma.c:433:19:HAL_DMA_Start_IT	32	static
+stm32g0xx_hal_dma.c:506:19:HAL_DMA_Abort	16	static
+stm32g0xx_hal_dma.c:571:19:HAL_DMA_Abort_IT	24	static
+stm32g0xx_hal_dma.c:636:19:HAL_DMA_PollForTransfer	32	static
+stm32g0xx_hal_dma.c:795:6:HAL_DMA_IRQHandler	24	static
+stm32g0xx_hal_dma.c:901:19:HAL_DMA_RegisterCallback	32	static
+stm32g0xx_hal_dma.c:952:19:HAL_DMA_UnRegisterCallback	24	static
+stm32g0xx_hal_dma.c:1030:22:HAL_DMA_GetState	16	static
+stm32g0xx_hal_dma.c:1042:10:HAL_DMA_GetError	16	static
+stm32g0xx_hal_dma.c:1069:13:DMA_SetConfig	24	static
+stm32g0xx_hal_dma.c:1116:13:DMA_CalcDMAMUXChannelBaseAndMask	24	static
+stm32g0xx_hal_dma.c:1162:13:DMA_CalcDMAMUXRequestGenBaseAndMask	24	static
